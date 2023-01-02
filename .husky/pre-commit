@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# This setting causes the formatting to be applied to all files in your project.
+yarn format &&  yarn lint:fix  && git add .
