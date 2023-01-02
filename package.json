@@ -1,8 +1,16 @@
 {
   "name": "ecommerce-web-app",
+  "author": "Bryan Aguilar",
+  "description": "ecommerce web app",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=18.12.1",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
