@@ -1,7 +1,7 @@
 {
-	"name": "super-project",
+	"name": "react-template-project",
 	"author": "Bryan Aguilar",
-	"description": "super project with: ESLint, Prettier, SCSS, Commitlint, Husky, alias paths, Jest & React Testing Library",
+	"description": "React template project with: Vite, Typescript, ESLint, Prettier, SCSS, Commitlint, Husky, alias paths, Jest & React Testing Library",
 	"private": true,
 	"version": "0.1.0",
 	"license": "MIT",
