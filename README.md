@@ -2,11 +2,11 @@
 
 It is very common that when you start a new project, you want to implement best practices, keep your code clean and generate a scalable development, this repository shows recommendations on how to achieve something like that.
 
-This repository is the result of my Medium article: [Arquitectura escalable para proyectos de React](https://baguilar6174.medium.com/arquitectura-escalable-para-proyectos-de-react-ce8520071ca4)
+This repository is the result of my Medium article: [Discover the best boilerplate for your React projects, make your project scalable](https://baguilar6174.medium.com/arquitectura-escalable-para-proyectos-de-react-ce8520071ca4)
 
 <table>
   <tr>
-    <td align="center" valign="center"><img src="./media/banner.png" width="60%"></td>
+    <td align="center" valign="center"><img src="./media/banner.png" width="75%"></td>
   </tr>
 </table>
 
